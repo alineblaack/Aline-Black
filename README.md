@@ -35,8 +35,7 @@ R: Usaria ‘ or 1=1 -- (porque -- é comentário em sql e tornaria a minha afir
 4 - O que você faria para resolver o problema de senhas
  em texto plano no banco de dados
 do seu cliente
-R: Geraria hashs para tornar as senhas "criptografadas" no banco de dados.
-
+R: Não sei
 ```
 
 ```python
