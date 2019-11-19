@@ -1,6 +1,6 @@
 # Avaliação de Segurança e versionamento
 
-Avaliação pode ser feita em dupla e com consulta.
+Avaliação pode ser feita em dupla e com consulta
 
 Você deverá clonar esse documento, responder as questões e versioná-lo de volta no seu repositório. Ao final deverá me mandar o link.
 
