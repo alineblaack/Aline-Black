@@ -38,7 +38,6 @@ do seu cliente
 R: Geraria hashs para tornar as senhas "criptografadas" no banco de dados.
 
 
-```
 
 ```python
 5  a) O que é XSS request forgery:
