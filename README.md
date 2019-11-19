@@ -37,6 +37,7 @@ R: Usaria ‘ or 1=1 -- (porque -- é comentário em sql e tornaria a minha afir
 do seu cliente
 R: Geraria hashs para tornar as senhas "criptografadas" no banco de dados.
 
+
 ```
 
 ```python
